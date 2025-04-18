@@ -56,10 +56,6 @@ Este repositório contém a grade curricular do curso de **Sistemas de Informaç
 - Sistemas Integrados de Gestão
 - Trabalho de Conclusão de Curso 2 (TCC2)
 
-## Sobre o Curso
-
-O curso de **Sistemas de Informação** da Impacta prepara os alunos para trabalhar com desenvolvimento de software, gerenciamento de bancos de dados, segurança da informação, além de proporcionar habilidades práticas por meio de estágios e projetos de inovação.
-
 ### Competências Desenvolvidas:
 - Programação e desenvolvimento de sistemas
 - Análise e modelagem de dados
