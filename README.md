@@ -1,6 +1,6 @@
 # Curso de Sistemas de Informação - Faculdade Impacta
 
-Este repositório contém a grade curricular do curso de **Sistemas de Informação** da Faculdade Impacta. O curso abrange uma série de disciplinas relacionadas ao desenvolvimento de software, infraestrutura de TI, análise de dados e muito mais.
+Este repositório contém a grade curricular e pastas separadas por semestre com conteúdos importantes do curso de **Sistemas de Informação** da Faculdade Impacta. O curso abrange uma série de disciplinas relacionadas ao desenvolvimento de software, infraestrutura de TI, análise de dados e muito mais.
 
 ## Grade Curricular
 
